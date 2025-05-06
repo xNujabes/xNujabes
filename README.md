@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm xNujabes</h1>
 <h3 align="center">Web and game developper - CS Student</h3>
 
-- 🌱 I’m currently learning **React, Javascript**
+- 🌱 I’m currently learning **React, Javascript** and **Unity VR**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-xnujabes-projects.vercel.app/](https://portfolio-xnujabes-projects.vercel.app/)
 
-- 💬 Ask me about **Godot**
+- 💬 Ask me about **Godot** and **Unity 3D**
 
 - 📫 How to reach me **william.pinel987@gmail.com**
 
