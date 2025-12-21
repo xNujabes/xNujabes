@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-xnujabes-projects.vercel.app/](https://portfolio-xnujabes-projects.vercel.app/)
 
-- 💬 Ask me about **Godot** and **Unity 3D**
+- 💬 Ask me about **Unreal** and **Unity 3D**
 
 - 📫 How to reach me **william.pinel987@gmail.com**
 
